@@ -11,13 +11,17 @@ body {
     border-radius: .5em;
     width: 400px;
     height: 300px;
-    /*Add your code here*/
+    display: flex;
+    justify-content: center;
+    
 }
 
 .child {
     background-color: #4D7298;
     color: #fff;
-    padding: .5em;
+    padding: 1em;
     width: 150px;
-    /*Add your code here*/
+    border: 2px solid;
+    border-radius: .5em;
 }
+
